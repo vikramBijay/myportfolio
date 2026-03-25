@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Reveal } from "./useReveal.jsx";
 
 const C = { accent: "#7fff6e", accent2: "#5be8c8", text: "#e8e8f0", muted: "#6b6b80", surface: "#0d0d12", bg: "#060608", border: "rgba(255,255,255,0.07)" };
-
+// links 
 const links = [
   { icon: "✉",  name: "Email",    val: "vikrambijay005@email.com",    href: "mailto:vikrambijay005@email.com" },
   { icon: "⊙",  name: "GitHub",   val: "github.com/vikramBijay",      href: "https://github.com/vikramBijay" },
