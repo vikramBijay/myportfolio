@@ -9,8 +9,8 @@ const jsProjects = [
 ];
 
 const reactProjects = [
-  { name: "Modern Shopping Website", desc: "Fully responsive e-commerce app with dynamic product listings, smart category filtering, and real-time cart management.",         tags: ["React.js", "Tailwind CSS", "JavaScript", "useState"] },
-  { name: "News Aggregator App",     desc: "Live news application fetching real-time data via REST API with category filters and keyword search functionality.",               tags: ["React.js", "REST API", "useEffect"] },
+  { name: "Modern Shopping Website", desc: "Fully responsive e-commerce app with dynamic product listings, smart category filtering, and real-time cart management.",         tags: ["React.js", "Tailwind CSS", "JavaScript", "useState"], link:"https://bijayvikram-modern-ecommerce.netlify.app/" },
+  { name: "News Aggregator App",     desc: "Live news application fetching real-time data via REST API with category filters and keyword search functionality.",               tags: ["React.js", "REST API", "useEffect"], link:"" },
   { name: "Portfolio Website",       desc: "This very portfolio — built with React featuring scroll animations, responsive layout, and smooth interactions.",                  tags: ["React.js", "Vite", "Animations"] },
 ];
 

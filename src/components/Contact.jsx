@@ -5,8 +5,8 @@ const C = { accent: "#7fff6e", accent2: "#5be8c8", text: "#e8e8f0", muted: "#6b6
 
 const links = [
   { icon: "✉",  name: "Email",    val: "vikrambijay005@email.com",    href: "mailto:vikrambijay005@email.com" },
-  { icon: "⊙",  name: "GitHub",   val: "github.com/bijayvikram",      href: "https://github.com/bijayvikram" },
-  { icon: "in", name: "LinkedIn", val: "linkedin.com/in/bijayvikram", href: "https://linkedin.com/in/bijayvikram" },
+  { icon: "⊙",  name: "GitHub",   val: "github.com/vikramBijay",      href: "https://github.com/vikramBijay" },
+  { icon: "in", name: "LinkedIn", val: "linkedin.com/in/bijay-vikram-a069363b5/", href: "https://linkedin.com/in/bijay-vikram-a069363b5/" },
 ];
 
 function ContactLink({ c, first }) {
